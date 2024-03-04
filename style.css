@@ -21,10 +21,11 @@
     }
     .container2{
         background-color: palevioletred;
-        background-image: url(photo.jpg);
+        background-image: url(images/photo.jpg);
         padding: 60px;
         border: solid ;
         margin: 10%;
+        
     }
     .heading{
         color: rgba(7, 7, 58, 0.877);
@@ -32,6 +33,7 @@
     }
     .text{
         font-size: larger;
+        color: white;
     
     }
      .button1{
@@ -51,24 +53,30 @@
      }.image1{
     background-color: rgba(7, 7, 58, 0.877);
     padding: 12px;
-    width: 80%;
+    width: 110%;
     color: white;
-    
+    display: flex;
     
      }
+
      .image2{
     background-color: rgba(7, 7, 58, 0.877);
     padding: 12px;
-    width: 80%;
+    width: 110%;
     color: white;
+    display: flex;
      }
+
      .image3{
     background-color: rgb(227, 198, 28);
-    width: 85%;
+    width: 110%;
+    display: flex;
      }
+
      .image4{
-        width:45%;
-        height: 15%;
+        width:85%;
+        height: 65%;
     
      }
+    
     
