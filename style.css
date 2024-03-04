@@ -1,0 +1,15 @@
+.myTopnav{
+/* padding: 14px 16px; */
+display: flex;
+font-size: 17px;
+gap: 5%;
+}
+.login{
+    gap: 30%;
+    display: flex;
+}
+.log{ 
+    float: right;
+    gap: 2%;
+    /* display: flex; */
+}
