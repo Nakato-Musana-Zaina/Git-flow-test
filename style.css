@@ -1,0 +1,82 @@
+.container{
+    padding: 8px, 20px ;
+    border: solid 2px black;
+    margin: 3%;
+    background-color: rgba(7, 7, 58, 0.877);
+    width: 90%
+    }
+    body{
+        font-style: normal;
+        background-color: rgba(245, 245, 250, 0.774);
+        padding: 220PX;
+        font-size: larger;
+        color: black;
+        
+    }
+    .box{
+        
+        padding: 50px;
+        gap: 20px;
+        /* border-radius: 12px; */
+    }
+    .container2{
+        background-color: palevioletred;
+        background-image: url(images/photo.jpg);
+        padding: 60px;
+        border: solid ;
+        margin: 10%;
+        
+    }
+    .heading{
+        color: rgba(7, 7, 58, 0.877);
+        font-size: xx-large;
+    }
+    .text{
+        font-size: larger;
+        color: white;
+    
+    }
+     .button1{
+        background-color: yellow;
+        padding: 5px;
+     }  
+     .button2{
+        border: solid 2px;
+        padding: 5px;
+     } 
+     .wrap{
+        display: grid;
+        grid-template-rows: table-row;
+        grid-template-columns: repeat(5,1fr);
+    
+    
+     }.image1{
+    background-color: rgba(7, 7, 58, 0.877);
+    padding: 12px;
+    width: 110%;
+    color: white;
+    display: flex;
+    
+     }
+
+     .image2{
+    background-color: rgba(7, 7, 58, 0.877);
+    padding: 12px;
+    width: 110%;
+    color: white;
+    display: flex;
+     }
+
+     .image3{
+    background-color: rgb(227, 198, 28);
+    width: 110%;
+    display: flex;
+     }
+
+     .image4{
+        width:85%;
+        height: 65%;
+    
+     }
+    
+    
